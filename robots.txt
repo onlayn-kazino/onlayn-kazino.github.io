@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: onlayn-kazino.github.io
+Sitemap: https://onlayn-kazino.github.io/sitemap.xml
